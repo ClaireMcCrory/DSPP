@@ -6,7 +6,7 @@ Data Science Professional Practice - BSc Data Science Apprenticeship
 ### Education 
 BPP BSc Data Science Apprenticeship  
 
-#### Work Experience 
+### Work Experience 
 8 Years + BI Developer in the Banking Industry
 
-##### Projects / Passions 
+#### Projects / Passions 
