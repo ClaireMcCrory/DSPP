@@ -4,7 +4,7 @@ Data Science Professional Practice - BSc Data Science Apprenticeship
 ## Data Scientist 
 (in training) 
 
-### Education 
+## Education 
 BPP BSc Data Science Apprenticeship  
 
 ## Work Experience 
